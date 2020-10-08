@@ -67,3 +67,4 @@ public class Quotation {
 * на "**п'ять**" - те, що на "чотири", плюс, змінити код завдань таким чином, щоб:
   * колір сорочки зберігався та виводився у вигляді рядка (red, blue, green, unset) 
   * окрім цитати виводилось ім'я того, кому вона належить
+[![Run on Repl.it](https://repl.it/badge/github/ppc-ntu-khpi/34-first-lab-thxnk)](https://repl.it/github/ppc-ntu-khpi/34-first-lab-thxnk)
